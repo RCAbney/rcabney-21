@@ -1,20 +1,20 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import Twitter from '../images/twitter.svg'
-import LinkedIn from '../images/linkedin.svg'
-import Github from '../images/github.svg'
+import Twitter from '../public/images/twitter.svg'
+import LinkedIn from '../public/images/linkedin.svg'
+import Github from '../public/images/github.svg'
 
 export default function Footer() {
     return (
         <footer>
         <div className="footer-content">
-          <Link href="/" className="footer-link">
-              <a>
+          <Link href="/">
+              <a className="footer-link">
             © {new Date().getFullYear()}
             {` `}RCAbney
               </a>
           </Link>
-          <ul class="social-links">
+          <ul className="social-links">
             <li>
               <a href="https://twitter.com/rcabney">
                 <Image src={Twitter} alt="twitter logo" />

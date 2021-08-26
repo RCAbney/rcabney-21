@@ -108,6 +108,7 @@ header {
   width: 100%;
   height: auto;
   align-self: flex-start;
+  object-fit: cover;
 }
 
 .folio-details {
@@ -285,4 +286,15 @@ main {
 
 .header--logo {
   width: 200px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.post img {
+  display: block;
+  width: 100%;
+  height: auto;
 }

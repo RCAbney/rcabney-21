@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import RCAbneyLogo from '../images/rcabney-logo-hz.png'
+import RCAbneyLogo from '../public/images/rcabney-logo-hz.png'
 
 export default function Header() {
     return (
@@ -24,12 +24,7 @@ export default function Header() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="/posts/">
-                            <a>Posts</a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/about/resume">
+                        <Link href="/resume">
                             <a>Resume</a>
                         </Link>
                     </li>
