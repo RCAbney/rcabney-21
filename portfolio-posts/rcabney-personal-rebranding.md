@@ -7,6 +7,6 @@ image: /images/portfolio-images/personal-rebranding.jpg
 tags: ["graphic design"]
 ---
 
-![RCAbney personal rebranding elements](/images/portfolio-images/personal-rebranding.jpg)
+<img src="/images/portfolio-images/personal-rebranding.jpg" alt="RCAbney personal rebrand" width="1200" height="813" />
 
 Personal rebranding project

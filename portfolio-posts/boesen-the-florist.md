@@ -7,6 +7,7 @@ image: /images/portfolio-images/boesen-the-florist.jpg
 tags: ["graphic design", "development"]
 ---
 
-![Beosen the Florist pushdown](/images/portfolio-images/boesen-the-florist.jpg)
+<img src="/images/portfolio-images/boesen-the-florist.jpg" alt="Boesen the Florist pushdown ad" width="1180" height="787" />
+
 
 HTML5 Pushdown for GIADC.

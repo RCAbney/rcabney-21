@@ -7,6 +7,6 @@ image: /images/portfolio-images/garys-vacuflo.jpg
 tags: ["web design", "development"]
 ---
 
-![Gary's Vacuflo landing page](/images/portfolio-images/garys-vacuflo.jpg)
+<img src="/images/portfolio-images/garys-vacuflo.jpg" alt="Garys Vacuflo landing page" width="1180" height="787" />
 
 Landing page made for GIADC.

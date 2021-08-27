@@ -7,6 +7,6 @@ image: /images/portfolio-images/aviation-triad.jpg
 tags: ["graphic design", "development"]
 ---
 
-![Aviation Triad pushdown](/images/portfolio-images/aviation-triad.jpg)
+<img src="/images/portfolio-images/aviation-triad.jpg" alt="Aviation Triad Pushdown" width="1180" height="787" />
 
 HTML5 Pushdown for GIADC.

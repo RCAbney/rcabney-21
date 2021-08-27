@@ -7,6 +7,6 @@ image: /images/portfolio-images/gannett-infographic.jpg
 tags: ["graphic design", "development"]
 ---
 
-![Gannett Infographic](/images/portfolio-images/gannett-infographic.jpg)
+<img src="/images/portfolio-images/gannett-infographic.jpg" alt="Gannett Infographic" width="920" height="720" />
 
 Social Media Infographic/Presentation designed for one of our sister sites at GIADC.

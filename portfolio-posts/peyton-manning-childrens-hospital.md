@@ -7,7 +7,7 @@ image: /images/portfolio-images/pmch.jpg
 tags: ["web design", "development"]
 ---
 
-![Peyton Manning Children's Hospital Website](/images/portfolio-images/pmch.jpg)
+<img src="/images/portfolio-images/pmch.jpg" alt="Peyton Manning Children's Hospital" width="1180" height="787" />
 
 We recently redesigned the Peyton Manning Children's Hospital website in WordPress. My major contribution to this project was developing a roster component for our provider team pages.
 

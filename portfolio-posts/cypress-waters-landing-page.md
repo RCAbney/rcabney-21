@@ -7,6 +7,6 @@ image: /images/portfolio-images/cypress-waters.jpg
 tags: ["web design", "development"]
 ---
 
-![Cypress Waters Apartments landing page](/images/portfolio-images/cypress-waters.jpg)
+<img src="/images/portfolio-images/cypress-waters.jpg" alt="Cypress Waters Apartments Landing Page" width="1180" height="787" />
 
 Landing page made for GIADC.

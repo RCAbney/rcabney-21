@@ -7,7 +7,7 @@ export default function Header() {
         <header>
             <nav>
                 <Link href="/">
-                    <a>
+                    <a className="logo">
                         <Image src={RCAbneyLogo} alt="RCAbney Logo" width={200} height={37} />
                     </a>
                 </Link>

@@ -7,7 +7,7 @@ image: /images/portfolio-images/eplanters-homepage.jpg
 tags: ["development"]
 ---
 
-![ePlanters.com homepage](/images/portfolio-images/eplanters-homepage.jpg)
+<img src="/images/portfolio-images/eplanters-homepage.jpg" alt="Eplanters Home Page" width="1180" height="787" />
 
 This was a freelance project.
 

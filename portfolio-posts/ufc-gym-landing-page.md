@@ -7,6 +7,6 @@ image: /images/portfolio-images/ufc-gym.jpg
 tags: ["web design", "development"]
 ---
 
-![UFC Gym landing page](/images/portfolio-images/ufc-gym.jpg)
+<img src="/images/portfolio-images/ufc-gym.jpg" alt="UFC Gym" width="1180" height="787" />
 
 Landing page made for GIADC.

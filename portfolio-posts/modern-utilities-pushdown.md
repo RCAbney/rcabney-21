@@ -7,6 +7,6 @@ image: /images/portfolio-images/powder-house-pass.jpg
 tags: ["graphic design", "development"]
 ---
 
-![Powder House Pass pushdown ad](/images/portfolio-images/powder-house-pass.jpg)
+<img src="/images/portfolio-images/powder-house-pass.jpg" alt="Powder House Pass Pushdown" width="1180" height="787" />
 
 HTML5 Pushdown for GIADC.
