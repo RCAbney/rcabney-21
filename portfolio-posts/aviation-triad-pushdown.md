@@ -4,9 +4,9 @@ post_index: 11
 slug: aviation-triad-pushdown
 author: Ryan Abney
 image: /images/portfolio-images/aviation-triad.jpg
+imageWidth: 1180
+imageHeight: 787
 tags: ["graphic design", "development"]
 ---
-
-<img src="/images/portfolio-images/aviation-triad.jpg" alt="Aviation Triad Pushdown" width="1180" height="787" />
 
 HTML5 Pushdown for GIADC.
