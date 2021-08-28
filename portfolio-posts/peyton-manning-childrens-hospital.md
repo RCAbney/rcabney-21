@@ -4,10 +4,10 @@ post_index: 0
 slug: peyton-manning-childrens-hospital
 author: Ryan Abney
 image: /images/portfolio-images/pmch.jpg
+imageWidth: 1180
+imageHeight: 787
 tags: ["web design", "development"]
 ---
-
-<img src="/images/portfolio-images/pmch.jpg" alt="Peyton Manning Children's Hospital" width="1180" height="787" />
 
 We recently redesigned the Peyton Manning Children's Hospital website in WordPress. My major contribution to this project was developing a roster component for our provider team pages.
 

@@ -4,10 +4,10 @@ post_index: 1
 slug: st-vincent-sitecore-redesign
 author: Ryan Abney
 image: /images/portfolio-images/stvincent-redesign.jpg
+imageWidth: 1180
+imageHeight: 787
 tags: ["web design", "development"]
 ---
-
-<img src="/images/portfolio-images/stvincent-redesign.jpg" alt="St. Vincent Redesign" width="1180" height="787" />
 
 Redesign of stvincent.org using Sitecore CMS.
 

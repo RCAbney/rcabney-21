@@ -4,10 +4,10 @@ post_index: 2
 slug: eplanters-homepage-design
 author: Ryan Abney
 image: /images/portfolio-images/eplanters-homepage.jpg
+imageWidth: 1180
+imageHeight: 787
 tags: ["development"]
 ---
-
-<img src="/images/portfolio-images/eplanters-homepage.jpg" alt="Eplanters Home Page" width="1180" height="787" />
 
 This was a freelance project.
 

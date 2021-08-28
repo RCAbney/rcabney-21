@@ -1,6 +1,7 @@
 import Layout from '../../components/layout'
 import { getAllPostIds, getPostData } from '../../lib/posts'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export async function getStaticProps({params}) {
     const postData = await getPostData(params.id)
@@ -24,6 +25,7 @@ export default function PortfolioPage({ postData }) {
         <Layout>
             <article className="post">
                 <h1>{postData.title}</h1>
+                <Image src={postData.image} alt={postData.title} width={postData.imageWidth} height={postData.imageHeight} placeholder="blur" blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkOLFtKQAEcwIl4CFSHgAAAABJRU5ErkJggg==" />
                 <div dangerouslySetInnerHTML={{__html: postData.contentHtml}}/>
                 <Link href="/"><a>Back to the front!</a></Link>
             </article>
