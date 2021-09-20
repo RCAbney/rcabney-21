@@ -44,6 +44,7 @@ export default function ResumePage() {
               <ul>
                 <li>WordPress</li>
                 <li>Prismic</li>
+                <li>Shopify</li>
               </ul>
             </div>
             <div className="skillset">
@@ -63,7 +64,7 @@ export default function ResumePage() {
             <li><a href="https://olliellama.co" target="_blank" rel="noopener noreferrer">Ollie Llama + Co.</a> &ndash; Lessonly's clothing line, with over 3,100 orders since launch.</li>
             <li><a href="https://www.lessonly.com/resources/free-employee-training-plan-template/" target="_blank" rel="noopener noreferrer">Lessonly's Training Plan Builder</a> &ndash; a react-based application that allows leaders to craft a detailed training plan for their team.</li>
             <li><a href="https://www.lessonly.com/llamanation" target="_blank" rel="noopener noreferrer">Llamanation</a> &ndash; Lessonly's customer community, which has grown to over 1,000 members in just over a year.</li>
-            <li>Project "Llamageddon" &ndash; a relaunch of some of our most trafficked customer-facing pages that saw conversion rates increase by up to 61% over the previous iterations.</li>
+            <li>Project "Llamageddon" &ndash; a relaunch of some of our most trafficked customer-facing pages that saw conversion rates increase by up to 61% over previous iterations.</li>
             <li><a href="https://www.lessonly.com/yellowship" target="_blank" rel="noopener noreferrer">Yellowship</a> &ndash; Lessonly's annual better work conference.</li>
             <li><a href="https://dobetterwork.com" target="_blank" rel="noopener noreferrer">Do Better Work</a> &ndash; a site dedicated to Lessonly CEO Max Yoder's two books, <em>Do Better Work</em>, and <em>To See It, Be It.</em></li>
           </ul>
