@@ -31,11 +31,9 @@ export default function ResumePage() {
             <div className="skillset">
               <h3>Frameworks &amp; Libraries</h3>
               <ul>
-                <li>Bootstrap</li>
-                <li>Foundation</li>
-                <li>Tailwind</li>
+                <li>Bootstrap/Foundation/Tailwind/MUI</li>
                 <li>React</li>
-                <li>Gatsby</li>
+                <li>Redux</li>
                 <li>Next.js</li>
               </ul>
             </div>
@@ -43,7 +41,6 @@ export default function ResumePage() {
               <h3>CMS</h3>
               <ul>
                 <li>WordPress</li>
-                <li>Prismic</li>
                 <li>Shopify</li>
               </ul>
             </div>
@@ -57,16 +54,53 @@ export default function ResumePage() {
           </div>
 
           <h2>Experience</h2>
-          <h3>Lessonly — Web Developer</h3>
-          <p>April 2020 - Present</p>
-          <p>I serve Lessonly's brand team by developing and implementing digital experiences for our marketing website(s) including:</p>
+          <h3>Byrider - Software Engineer</h3>
+          <p>Nov 2021 - present</p>
           <ul>
-            <li><a href="https://olliellama.co" target="_blank" rel="noopener noreferrer">Ollie Llama + Co.</a> &ndash; Lessonly's clothing line, with over 3,100 orders since launch.</li>
-            <li><a href="https://www.lessonly.com/resources/free-employee-training-plan-template/" target="_blank" rel="noopener noreferrer">Lessonly's Training Plan Builder</a> &ndash; a react-based application that allows leaders to craft a detailed training plan for their team.</li>
-            <li><a href="https://www.lessonly.com/llamanation" target="_blank" rel="noopener noreferrer">Llamanation</a> &ndash; Lessonly's customer community, which has grown to over 1,000 members in just over a year.</li>
-            <li>Project "Llamageddon" &ndash; a relaunch of some of our most trafficked customer-facing pages that saw conversion rates increase by up to 61% over previous iterations.</li>
-            <li><a href="https://www.lessonly.com/yellowship" target="_blank" rel="noopener noreferrer">Yellowship</a> &ndash; Lessonly's annual better work conference.</li>
-            <li><a href="https://dobetterwork.com" target="_blank" rel="noopener noreferrer">Do Better Work</a> &ndash; a site dedicated to Lessonly CEO Max Yoder's two books, <em>Do Better Work</em>, and <em>To See It, Be It.</em></li>
+            <li>
+              Currently developing an internal application (React/Redux/.NET)
+              designed to maximize dealership revenue.
+            </li>
+          </ul>
+          <h3>Lessonly (acquired by Seismic Software) — Web Developer</h3>
+          <p>Apr 2020 - Nov 2021</p>
+          <p>
+            I serve Lessonly's brand team by developing and implementing digital
+            experiences for our marketing website(s) including:
+          </p>
+          <ul>
+            <li>
+              Ollie Llama + Co. &ndash; Lessonly's clothing line, with over
+              3,100 orders since launch.
+            </li>
+            <li>
+              Lessonly's Training Plan Builder &ndash; a react-based application
+              that allows leaders to craft a detailed training plan for their
+              team.
+            </li>
+            <li>
+              Llamanation &ndash; Lessonly's customer community, which has grown
+              to over 1,000 members in just over a year.
+            </li>
+            <li>
+              Project "Llamageddon" &ndash; a relaunch of some of our most
+              trafficked customer-facing pages that saw conversion rates
+              increase by up to 61% over previous iterations.
+            </li>
+            <li>
+              Yellowship &ndash; Lessonly's annual better work conference.
+            </li>
+            <li>
+              <a
+                href="https://dobetterwork.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Do Better Work
+              </a>{" "}
+              &ndash; a site dedicated to Lessonly CEO Max Yoder's two books,{" "}
+              <em>Do Better Work</em>, and <em>To See It, Be It.</em>
+            </li>
           </ul>
           <h3>Ascension St. Vincent — Analyst - Technology (Contingent)</h3>
           <p>Jun 2016 - Dec 2019</p>
