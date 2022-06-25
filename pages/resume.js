@@ -35,7 +35,7 @@ export default function ResumePage() {
                 <li>Foundation</li>
                 <li>Tailwind</li>
                 <li>React</li>
-                <li>Gatsby</li>
+                <li>Redux</li>
                 <li>Next.js</li>
               </ul>
             </div>
@@ -56,8 +56,44 @@ export default function ResumePage() {
           </div>
 
           <h2>Experience</h2>
-          <h3>Lessonly — Web Developer</h3>
-          <p>April 2020 - Present</p>
+          <h3>Byrider - Software Engineer</h3>
+          <p>Nov 2021 - Present</p>
+          <ul>
+            <li>
+              Currently developing an internal application designed to increase
+              dealership revenues.
+            </li>
+          </ul>
+          <h3>Lessonly (acquired by Seismic Software) — Web Developer</h3>
+          <p>April 2020 - Nov 2021</p>
+          <p>
+            I served Lessonly's brand team by developing and implementing
+            digital experiences for our marketing website(s) including:
+          </p>
+          <ul>
+            <li>
+              Ollie Llama + Co. – Our clothing line, with over 3,000 orders
+              since launch.
+            </li>
+            <li>
+              Lessonly's Training Plan Builder – a react-based application that
+              allows leaders to craft a detailed training plan for their team.
+            </li>
+            <li>
+              Llamanation – Lessonly's customer community, which has grown to
+              over 1,000 members in just over a year.
+            </li>
+            <li>
+              A relaunch of some of our most trafficked customer-facing pages
+              with conversion rate increases of up to 61% over previous
+              iterations.
+            </li>
+            <li>Yellowship – Lessonly's annual better work conference.</li>
+            <li>
+              Do Better Work – a site dedicated to Lessonly CEO Max Yoder's two
+              books, Do Better Work, and To See It, Be It.
+            </li>
+          </ul>
           <h3>Ascension St. Vincent — Analyst - Technology (Contingent)</h3>
           <p>Jun 2016 - Dec 2019</p>
           <ul>
