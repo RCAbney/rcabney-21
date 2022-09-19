@@ -65,8 +65,8 @@ export default function ResumePage() {
           <h3>Lessonly (acquired by Seismic Software) — Web Developer</h3>
           <p>Apr 2020 - Nov 2021</p>
           <p>
-            I serve Lessonly's brand team by developing and implementing digital
-            experiences for our marketing website(s) including:
+            I served Lessonly's brand team by developing and implementing
+            digital experiences for our marketing website(s) including:
           </p>
           <ul>
             <li>
