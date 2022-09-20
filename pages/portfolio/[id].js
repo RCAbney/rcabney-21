@@ -35,8 +35,6 @@ export default function PortfolioPage({ postData }) {
             alt={postData.title}
             width={postData.imageWidth}
             height={postData.imageHeight}
-            placeholder="blur"
-            blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkOLFtKQAEcwIl4CFSHgAAAABJRU5ErkJggg=="
           />
           <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
           <Link href="/">

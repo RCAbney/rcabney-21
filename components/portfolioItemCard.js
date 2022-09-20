@@ -7,7 +7,7 @@ export default function PortfolioItemCard({ image, title, tags, slug }) {
         <div className="card">
         <Link href={`/portfolio/${slug}`}>
             <a>
-          <Image src={image} className="folio-image" alt={title} width={1000} height={1000} layout="intrinsic" placeholder="blur" blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkOLFtKQAEcwIl4CFSHgAAAABJRU5ErkJggg==" />
+              <Image src={image} className="folio-image" alt={title} width={1000} height={1000} layout="intrinsic" />
             </a>
         </Link>
         <div className="folio-details">

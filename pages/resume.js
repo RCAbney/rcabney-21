@@ -31,9 +31,7 @@ export default function ResumePage() {
             <div className="skillset">
               <h3>Frameworks &amp; Libraries</h3>
               <ul>
-                <li>Bootstrap</li>
-                <li>Foundation</li>
-                <li>Tailwind</li>
+                <li>Bootstrap/Foundation/Tailwind/MUI</li>
                 <li>React</li>
                 <li>Redux</li>
                 <li>Next.js</li>
@@ -43,7 +41,7 @@ export default function ResumePage() {
               <h3>CMS</h3>
               <ul>
                 <li>WordPress</li>
-                <li>Prismic</li>
+                <li>Shopify</li>
               </ul>
             </div>
             <div className="skillset">
@@ -57,41 +55,51 @@ export default function ResumePage() {
 
           <h2>Experience</h2>
           <h3>Byrider - Software Engineer</h3>
-          <p>Nov 2021 - Present</p>
+          <p>Nov 2021 - present</p>
           <ul>
             <li>
-              Currently developing an internal application designed to increase
-              dealership revenues.
+              Currently developing an internal application (React/Redux/.NET)
+              designed to maximize dealership revenue.
             </li>
           </ul>
           <h3>Lessonly (acquired by Seismic Software) — Web Developer</h3>
-          <p>April 2020 - Nov 2021</p>
+          <p>Apr 2020 - Nov 2021</p>
           <p>
             I served Lessonly's brand team by developing and implementing
             digital experiences for our marketing website(s) including:
           </p>
           <ul>
             <li>
-              Ollie Llama + Co. – Our clothing line, with over 3,000 orders
-              since launch.
+              Ollie Llama + Co. &ndash; Lessonly's clothing line, with over
+              3,100 orders since launch.
             </li>
             <li>
-              Lessonly's Training Plan Builder – a react-based application that
-              allows leaders to craft a detailed training plan for their team.
+              Lessonly's Training Plan Builder &ndash; a react-based application
+              that allows leaders to craft a detailed training plan for their
+              team.
             </li>
             <li>
-              Llamanation – Lessonly's customer community, which has grown to
-              over 1,000 members in just over a year.
+              Llamanation &ndash; Lessonly's customer community, which has grown
+              to over 1,000 members in just over a year.
             </li>
             <li>
-              A relaunch of some of our most trafficked customer-facing pages
-              with conversion rate increases of up to 61% over previous
-              iterations.
+              Project "Llamageddon" &ndash; a relaunch of some of our most
+              trafficked customer-facing pages that saw conversion rates
+              increase by up to 61% over previous iterations.
             </li>
-            <li>Yellowship – Lessonly's annual better work conference.</li>
             <li>
-              Do Better Work – a site dedicated to Lessonly CEO Max Yoder's two
-              books, Do Better Work, and To See It, Be It.
+              Yellowship &ndash; Lessonly's annual better work conference.
+            </li>
+            <li>
+              <a
+                href="https://dobetterwork.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Do Better Work
+              </a>{" "}
+              &ndash; a site dedicated to Lessonly CEO Max Yoder's two books,{" "}
+              <em>Do Better Work</em>, and <em>To See It, Be It.</em>
             </li>
           </ul>
           <h3>Ascension St. Vincent — Analyst - Technology (Contingent)</h3>
