@@ -3,12 +3,18 @@ import { getAllPostIds, getPostData } from "../../lib/posts";
 import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
+import { getPlaiceholder } from "plaiceholder";
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.id);
+  const { base64, img } = await getPlaiceholder(postData.image);
   return {
     props: {
       postData,
+      imgProps: {
+        ...img,
+        blurDataURL: base64,
+      },
     },
   };
 }
@@ -21,7 +27,7 @@ export async function getStaticPaths() {
   };
 }
 
-export default function PortfolioPage({ postData }) {
+export default function PortfolioPage({ postData, imgProps }) {
   return (
     <>
       <Head>
@@ -30,12 +36,9 @@ export default function PortfolioPage({ postData }) {
       <Layout>
         <article className="post">
           <h1>{postData.title}</h1>
-          <Image
-            src={postData.image}
-            alt={postData.title}
-            width={postData.imageWidth}
-            height={postData.imageHeight}
-          />
+
+          <Image {...imgProps} placeholder="blur" alt={postData.title} />
+
           <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
           <Link href="/">
             <a>Back to the front!</a>
