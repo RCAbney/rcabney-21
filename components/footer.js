@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="footer-content">
         <Link href="/" className="footer-link">
           © {new Date().getFullYear()}
-          {` `}RCAbney.
+          {` `}RCAbney
         </Link>
         <ul className="social-links">
           <li>
