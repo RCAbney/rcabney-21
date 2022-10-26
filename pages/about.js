@@ -12,7 +12,7 @@ export default function AboutPage() {
         <section className="resume">
           <h1>About Me</h1>
           <p>
-            Howdy, I'm Ryan, I've been making cool stuff out of pixels for a
+            Howdy, I'm Ryan and I've been making cool stuff out of pixels for a
             long time now.
           </p>
           <p>
