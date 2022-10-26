@@ -31,7 +31,7 @@ export default function PortfolioPage({ postData, imgProps }) {
   return (
     <>
       <Head>
-        <title>Ryan Abney | Developer - {postData.title}</title>
+        <title>{`Ryan Abney | Developer - ${postData.title}`}</title>
       </Head>
       <Layout>
         <article className="post">
@@ -40,9 +40,7 @@ export default function PortfolioPage({ postData, imgProps }) {
           <Image {...imgProps} placeholder="blur" alt={postData.title} />
 
           <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-          <Link href="/">
-            <a>Back to the front!</a>
-          </Link>
+          <Link href="/">Back to the front!</Link>
         </article>
       </Layout>
     </>

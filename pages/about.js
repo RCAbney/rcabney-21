@@ -48,10 +48,7 @@ export default function AboutPage() {
           <p>
             I'm currently looking for my next opportunity. If you made it this
             far and would like to{" "}
-            <Link href="/resume/">
-              <a>check out my resume</a>
-            </Link>{" "}
-            that'd be great.
+            <Link href="/resume/">check out my resume</Link> that'd be great.
           </p>
         </section>
       </Layout>
