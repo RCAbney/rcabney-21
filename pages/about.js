@@ -20,9 +20,9 @@ export default function AboutPage() {
             that I developed a love for making things.
           </p>
           <p>
-            I'm also a former sailor, I've been completely around the world. My
-            first lap was completed before I turned twenty. I spent six years in
-            the service and got to see a lot of amazing places and people.
+            I'm also a former sailor. I've been completely around the world. My
+            first lap was completed before I turned twenty! I spent six years in
+            the Navy and got to see a lot of amazing places and people.
           </p>
           <p>
             After I got out, I got one of those 'real jobs' and blinked as ten
