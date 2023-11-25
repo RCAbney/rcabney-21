@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import Twitter from "../public/images/twitter.svg";
 import LinkedIn from "../public/images/linkedin.svg";
 import Github from "../public/images/github.svg";
 
@@ -13,11 +12,6 @@ export default function Footer() {
           {` `}RCAbney
         </Link>
         <ul className="social-links">
-          <li>
-            <a href="https://twitter.com/rcabney">
-              <Image src={Twitter} alt="twitter logo" />
-            </a>
-          </li>
           <li>
             <a href="https://github.com/rcabney">
               <Image src={Github} alt="github logo" />
